@@ -22,9 +22,10 @@ from Mendeley. https://data.mendeley.com/datasets/gwbz3fsgp8/2
 ![our cnn architecture](https://user-images.githubusercontent.com/64719616/182241167-38370cd5-5787-49ed-a463-7371b67b88fb.png)
 
 ### Model evaluation
+### Accuracy
 ![Acc](https://user-images.githubusercontent.com/64719616/182241281-c22866ee-9417-4cc9-b868-22189e4ac542.PNG)
 ###
-###
+### Loss
 ![loss](https://user-images.githubusercontent.com/64719616/182241278-da4b77f5-6cf7-4d24-8c04-2cc24a98019b.PNG)
 
 
