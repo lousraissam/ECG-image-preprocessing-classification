@@ -12,6 +12,7 @@ from Mendeley. https://data.mendeley.com/datasets/gwbz3fsgp8/2
 ![Gray ECG](https://user-images.githubusercontent.com/64719616/182240771-cce1efdb-92a4-432e-93a5-21b61efa2eda.png)
 
 * Segmentation of ECG line from the background
+
 ![ecg final](https://user-images.githubusercontent.com/64719616/182240933-3e6c4563-9637-4ab6-8b5e-952fa629b939.png)
 
 * Resize image
